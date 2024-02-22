@@ -1,1 +1,1 @@
-web: gunicorn dj-rhinehart.wsgi
+web: gunicorn dj_learning.wsgi
